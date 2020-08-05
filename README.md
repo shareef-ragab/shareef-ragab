@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 🔭 I’m currently working on ...
 🌱 I’m currently learning Computer Science in Gaza Universty  
 👯 I’m looking to collaborate on ...
