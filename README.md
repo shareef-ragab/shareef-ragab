@@ -20,6 +20,9 @@ I've learned in the past, motivated me to learn new things and enter into a comp
 and you have chosen me to be a leader in computer science. I was not satisfied with knowing that the university provided me, 
 so I tried to find resources to learn the other
 
-#CONTACT
+### CONTACT
 PHONE : 972-59-7369443
 EMAIL : SHAREEF.T.RAGAB@GMAIL.COM
+### LANGUAGES
+Arabic - native languages
+English – read (good), Listen (good)
