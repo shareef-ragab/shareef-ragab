@@ -1,5 +1,6 @@
 ### Hi  👋
-### sHAREEF RAGAB ,
+
+### SHAREEF RAGAB ,
 ### DEVELOPER 
 
 I am Shareef Rajab, a student in the field of computer science at the Faculty of Information Technology
@@ -18,3 +19,7 @@ The change has happened here as I've lost much of my skills from what
 I've learned in the past, motivated me to learn new things and enter into a computer major, 
 and you have chosen me to be a leader in computer science. I was not satisfied with knowing that the university provided me, 
 so I tried to find resources to learn the other
+
+#CONTACT
+PHONE : 972-59-7369443
+EMAIL : SHAREEF.T.RAGAB@GMAIL.COM
