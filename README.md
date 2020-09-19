@@ -21,8 +21,9 @@ and you have chosen me to be a leader in computer science. I was not satisfied w
 so I tried to find resources to learn the other
 
 ### CONTACT
-PHONE : 972-59-7369443
-EMAIL : SHAREEF.T.RAGAB@GMAIL.COM
+PHONE : 972-59-7369443 \n
+EMAIL : SHAREEF.T.RAGAB@GMAIL.COM \n
+
 ### LANGUAGES
-Arabic - native languages
+Arabic - native languages\n
 English – read (good), Listen (good)
