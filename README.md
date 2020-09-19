@@ -40,12 +40,12 @@ Programming-Discovery-Building electrical circuits-Carpentry
 
 1. **PROGRAMMING SKILLS**
 
-     - Java
-     - Python
-     - PHP
-     - R
-     - HTML5
-     - CSS3
-     - IOS
-     - VB6
+     - Java **EXPERT** ( 99% )
+     - Python **INTERMEDIATE** ( 60% )
+     - PHP **INTERMEDIATE** ( 75% )
+     - R **INTERMEDIATE** ( 85% )
+     - HTML5 **EXPERT** ( 99% )
+     - CSS3 **EXPERT** ( 90% )
+     - IOS **BEGINNER** ( 20% )
+     - VB6 **BEGINNER** ( 40% )
   
