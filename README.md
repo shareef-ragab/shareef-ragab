@@ -49,7 +49,7 @@ Programming-Discovery-Building electrical circuits-Carpentry
      - IOS **BEGINNER** ( 20% )
      - VB6 **BEGINNER** ( 40% )
      
- 2. **DB SKILLS**
+2. **DB SKILLS**
 
      - MYSQL **EXPERT** ( 99% )
      - PL/SQL **INTERMEDIATE** ( 85% )
@@ -68,7 +68,7 @@ Programming-Discovery-Building electrical circuits-Carpentry
      - FireBase **INTERMEDIATE** ( 85% )
      - Bootstrap **EXPERT** ( 95% )
      - Laravel **INTERMEDIATE** ( 85% )
-     - Deeplearing4j**INTERMEDIATE** ( 80% )
+     - Deeplearing4j **INTERMEDIATE** ( 80% )
      - OpenCV **INTERMEDIATE** ( 80% )
      - Android lib **INTERMEDIATE** ( 89% )
      
