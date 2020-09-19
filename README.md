@@ -48,8 +48,27 @@ Programming-Discovery-Building electrical circuits-Carpentry
      - CSS3 **EXPERT** ( 90% )
      - IOS **BEGINNER** ( 20% )
      - VB6 **BEGINNER** ( 40% )
+     
  2. **DB SKILLS**
 
      - MYSQL **EXPERT** ( 99% )
      - PL/SQL **INTERMEDIATE** ( 85% )
      - SQL SERVER **INTERMEDIATE** ( 89% )
+     - ORACEL **EXPERT** ( 90% )
+     
+3. **OS SKILLS**
+
+     - WINDOWS **EXPERT** ( 95% )
+     - Ubuntu,linux,... **INTERMEDIATE** ( 70% )
+     - MacOS **INTERMEDIATE** ( 50% )
+     -Android OS **INTERMEDIATE** ( 89% )
+     
+4. **LIBERTY SKILLS**
+
+     - FireBase **INTERMEDIATE** ( 85% )
+     - Bootstrap **EXPERT** ( 95% )
+     - Laravel **INTERMEDIATE** ( 85% )
+     - Deeplearing4j**INTERMEDIATE** ( 80% )
+     - OpenCV **INTERMEDIATE** ( 80% )
+     - Android lib **INTERMEDIATE** ( 89% )
+     
