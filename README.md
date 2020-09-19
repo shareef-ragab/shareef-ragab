@@ -48,4 +48,8 @@ Programming-Discovery-Building electrical circuits-Carpentry
      - CSS3 **EXPERT** ( 90% )
      - IOS **BEGINNER** ( 20% )
      - VB6 **BEGINNER** ( 40% )
-  
+ 2. **DB SKILLS**
+
+     - MYSQL **EXPERT** ( 99% )
+     - PL/SQL **INTERMEDIATE** ( 85% )
+     - SQL SERVER **INTERMEDIATE** ( 89% )
