@@ -61,7 +61,7 @@ Programming-Discovery-Building electrical circuits-Carpentry
      - WINDOWS **EXPERT** ( 95% )
      - Ubuntu,linux,... **INTERMEDIATE** ( 70% )
      - MacOS **INTERMEDIATE** ( 50% )
-     -Android OS **INTERMEDIATE** ( 89% )
+     - Android OS **INTERMEDIATE** ( 89% )
      
 4. **LIBERTY SKILLS**
 
