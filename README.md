@@ -1,6 +1,6 @@
-### Hi  👋
+## Hi  👋
 
-### SHAREEF RAGAB ,
+# SHAREEF RAGAB ,
 ### DEVELOPER 
 
 I am Shareef Rajab, a student in the field of computer science at the Faculty of Information Technology
@@ -31,3 +31,21 @@ EMAIL : SHAREEF.T.RAGAB@GMAIL.COM
 Arabic - native languages
 
 English – read (good), Listen (good)
+
+### HOBBIES
+
+Programming-Discovery-Building electrical circuits-Carpentry
+
+### SKILLS
+
+1. **PROGRAMMING SKILLS**
+
+     - Java
+     - Python
+     - PHP
+     - R
+     - HTML5
+     - CSS3
+     - IOS
+     - VB6
+  
