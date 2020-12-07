@@ -3,8 +3,8 @@
 # SHAREEF RAJAB ,
 ### DEVELOPER 
 
-I am Shareef Rajab, a student in the field of computer science at the Faculty of Information Technology
-from the University of Gaza ... 
+I am Shareef Rajab, a graduate in the field of computer science at the Faculty of Information Technology
+from the Gaza University ... 
 
 I have agreat passion for learning computer technologies and the programs used in them and I have a great ambition
 to be one of the flags of this specialization in the universe. I liked this major from a young age, as I started saving 
@@ -73,6 +73,6 @@ Programming-Discovery-Building electrical circuits-Carpentry
      - Android lib **INTERMEDIATE** ( 89% )
      
 
-[LINK CV in AR](https://bit.ly/3oxygT3)
+[LINK CV in AR](https://bit.ly/3oxygT3 "السيرة الذاتية")
 
-[LINK CV in EN](https://bit.ly/2Injtec)
+[LINK CV in EN](https://bit.ly/2Injtec "CV")
