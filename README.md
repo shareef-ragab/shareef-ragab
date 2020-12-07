@@ -46,7 +46,7 @@ Programming-Discovery-Building electrical circuits-Carpentry
      - R **INTERMEDIATE** ( 85% )
      - HTML5 **EXPERT** ( 99% )
      - CSS3 **EXPERT** ( 90% )
-     - IOS **BEGINNER** ( 20% )
+     - SWIFT **BEGINNER** ( 20% )
      - VB6 **BEGINNER** ( 40% )
      
 2. **DB SKILLS**
@@ -72,3 +72,6 @@ Programming-Discovery-Building electrical circuits-Carpentry
      - OpenCV **INTERMEDIATE** ( 80% )
      - Android lib **INTERMEDIATE** ( 89% )
      
+
+link cv in language arabic https://bit.ly/3oxygT3
+link cv in language english https://bit.ly/2Injtec
