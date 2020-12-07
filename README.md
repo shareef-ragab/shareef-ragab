@@ -73,6 +73,6 @@ Programming-Discovery-Building electrical circuits-Carpentry
      - Android lib **INTERMEDIATE** ( 89% )
      
 
-link cv in language arabic https://bit.ly/3oxygT3
+LINK CV in AR https://bit.ly/3oxygT3
 
-link cv in language english https://bit.ly/2Injtec
+LINK CV in EN https://bit.ly/2Injtec
