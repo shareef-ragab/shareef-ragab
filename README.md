@@ -73,6 +73,8 @@ Programming-Discovery-Building electrical circuits-Carpentry
      - Android lib **INTERMEDIATE** ( 89% )
      
 
-[LINK CV in AR](https://bit.ly/3oxygT3 "السيرة الذاتية")
+[LINK CV in AR](https://bit.ly/3cagIcN "السيرة الذاتية")
 
-[LINK CV in EN](https://bit.ly/2Injtec "CV")
+[LINK CV in EN](https://bit.ly/2YgMJYv "CV")
+
+[LINK University degree](https://bit.ly/39j4hcI "University degree")
