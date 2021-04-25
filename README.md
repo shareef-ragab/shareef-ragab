@@ -6,8 +6,6 @@
 I am Shareef Rajab, a graduate in the field of computer science at the Faculty of Information Technology
 from the Gaza University ... 
 
-Full-stack Developer Web | java
-
 ⚡⚡ Full-Stack Developer | Java ⚡⚡.
 
 If you are looking for a Software Developer, mobile app, Desktop, and website, welcome aboard my friend.
