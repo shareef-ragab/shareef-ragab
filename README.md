@@ -15,12 +15,19 @@ I work on developing machine learning algorithms for app classification images b
 Over the past years, I have worked as a Developer with many clients from all over the world, analyzing apps, Designing web pages, Developing websites, and visualizing data.
 
 What sets me apart:
+
 ☑ High Quality of my code & clean code.
-☑ Problem-solving in java
-☑ On-time Delivery
-☑ Attention to details 
-☑ Analysis's system 
-☑ working with git, GitHub, Trello, slack  
+
+☑ Problem-solving in java.
+
+☑ On-time Delivery.
+
+☑ Attention to details .
+
+☑ Analysis's system .
+
+☑ working with git, GitHub, Trello, slack  .
+
 
 Clients' satisfaction and quality work are my top priorities. Once I get working on a project, I rest not until I provide the perfect app that my clients are after.
 
