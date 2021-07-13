@@ -43,7 +43,7 @@ EMAIL : SHAREEF.T.RAGAB@GMAIL.COM
 
 Arabic - native languages
 
-English – read (good), Listen (good)
+English – Read (Good), Listen (Good) , Write ( Good ).
 
 ### HOBBIES
 
