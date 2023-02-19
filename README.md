@@ -89,11 +89,3 @@ Programming-Discovery-Building electrical circuits-Carpentry
 [LINK CV in AR](https://bit.ly/3cagIcN "السيرة الذاتية")
 
 [LINK CV in EN](https://bit.ly/2YgMJYv "CV")
-
-[LINK University degree](https://bit.ly/39j4hcI "University degree شهادة الجامعية")
-
-[LINK Arabic transcript](https://bit.ly/3cczrnU "سجل الدرجات")
-
-[LINK English transcript](https://bit.ly/3qV7W6q "English transcript")
-
-
