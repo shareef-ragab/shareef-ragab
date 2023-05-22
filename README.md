@@ -1,91 +1,78 @@
-## Hi  👋
-
-# SHAREEF RAJAB ,
+# Hi 👋
+## SHAREEF RAJAB
 ### Full-stack Developer
 
-I am Shareef Rajab, a graduate in the field of computer science at the Faculty of Information Technology
-from the Gaza University ... 
+I am Shareef Rajab, a graduate in the field of computer science from the Faculty of Information Technology at Gaza University. I specialize in Full-stack development with a focus on Java.
 
-⚡⚡ Full-Stack Developer | Java ⚡⚡.
+If you are in need of a Software Developer for mobile apps, desktop applications, or websites, you've come to the right place.
 
-If you are looking for a Software Developer, mobile app, Desktop, and website, welcome aboard my friend.
+#### Skills
+- Java (Expert)
+- R (Intermediate)
+- SQL (MySQL, Oracle, SQL Server)
+- PHP (Intermediate)
+- HTML5 (Expert)
+- CSS3 (Expert)
+- jQuery
+- Laravel (Intermediate)
+- Swift (Beginner)
+- VB6 (Beginner)
+- Python
 
-I work on developing machine learning algorithms for app classification images by java. I know other languages like R language, SQL (MySQL, Oracle, SQL Server), and I am also a full-stack developer. I use front-end languages like HTML, CSS, jQuery, and backend Laravel framework for PHP and I have a background in swift, VB6, python.
+#### Experience
+Over the years, I have worked with clients from all around the world, analyzing apps, designing web pages, developing websites, and visualizing data. I am committed to delivering high-quality code, solving problems efficiently, and ensuring on-time delivery with attention to detail.
 
-Over the past years, I have worked as a Developer with many clients from all over the world, analyzing apps, Designing web pages, Developing websites, and visualizing data.
+#### What sets me apart:
+- High-quality, clean code
+- Expertise in Java problem-solving
+- On-time delivery
+- Meticulous attention to detail
+- Systematic analysis
+- Proficient in using git, GitHub, Trello, and Slack
 
-What sets me apart:
+Clients' satisfaction and delivering exceptional work are my top priorities. I am dedicated to providing the perfect app that meets my clients' needs.
 
-☑ High Quality of my code & clean code.
+#### Contact
+📞 Phone: 972-59-7369443  
+✉️ Email: SHAREEF.T.RAGAB@GMAIL.COM
 
-☑ Problem-solving in java.
+#### Languages
+- Arabic (Native)
+- English (Read: Good, Listen: Good, Write: Good)
 
-☑ On-time Delivery.
+#### Hobbies
+Programming, Discovery, Building electrical circuits, Carpentry
 
-☑ Attention to details .
+#### Skills
+##### Programming Skills
+- Java (Expert)
+- Python (Intermediate)
+- PHP (Intermediate)
+- R (Intermediate)
+- HTML5 (Expert)
+- CSS3 (Expert)
+- Swift (Beginner)
+- VB6 (Beginner)
 
-☑ Analysis's system .
+##### Database Skills
+- MySQL (Expert)
+- PL/SQL (Intermediate)
+- SQL Server (Intermediate)
+- Oracle (Expert)
 
-☑ working with git, GitHub, Trello, slack  .
+##### Operating System Skills
+- Windows (Expert)
+- Ubuntu, Linux, etc. (Intermediate)
+- MacOS (Intermediate)
+- Android OS (Intermediate)
 
+##### Libraries and Frameworks
+- Firebase (Intermediate)
+- Bootstrap (Expert)
+- Laravel (Intermediate)
+- Deeplearning4j (Intermediate)
+- OpenCV (Intermediate)
+- Android Libraries (Intermediate)
 
-Clients' satisfaction and quality work are my top priorities. Once I get working on a project, I rest not until I provide the perfect app that my clients are after.
-
- Thanks for visiting and let's get rolling :)
-
-### CONTACT
-
-PHONE : 972-59-7369443 
-
-EMAIL : SHAREEF.T.RAGAB@GMAIL.COM 
-
-### LANGUAGES
-
-Arabic - native languages
-
-English – Read (Good), Listen (Good) , Write ( Good ).
-
-### HOBBIES
-
-Programming-Discovery-Building electrical circuits-Carpentry
-
-### SKILLS
-
-1. **PROGRAMMING SKILLS**
-
-     - Java **EXPERT** ( 99% )
-     - Python **INTERMEDIATE** ( 60% )
-     - PHP **INTERMEDIATE** ( 75% )
-     - R **INTERMEDIATE** ( 85% )
-     - HTML5 **EXPERT** ( 99% )
-     - CSS3 **EXPERT** ( 90% )
-     - SWIFT **BEGINNER** ( 20% )
-     - VB6 **BEGINNER** ( 40% )
-     
-2. **DB SKILLS**
-
-     - MYSQL **EXPERT** ( 99% )
-     - PL/SQL **INTERMEDIATE** ( 85% )
-     - SQL SERVER **INTERMEDIATE** ( 89% )
-     - ORACEL **EXPERT** ( 90% )
-     
-3. **OS SKILLS**
-
-     - WINDOWS **EXPERT** ( 95% )
-     - Ubuntu,linux,... **INTERMEDIATE** ( 70% )
-     - MacOS **INTERMEDIATE** ( 50% )
-     - Android OS **INTERMEDIATE** ( 89% )
-     
-4. **LIBERTY SKILLS**
-
-     - FireBase **INTERMEDIATE** ( 85% )
-     - Bootstrap **EXPERT** ( 95% )
-     - Laravel **INTERMEDIATE** ( 85% )
-     - Deeplearing4j **INTERMEDIATE** ( 80% )
-     - OpenCV **INTERMEDIATE** ( 80% )
-     - Android lib **INTERMEDIATE** ( 89% )
-     
-
-[LINK CV in AR](https://bit.ly/3cagIcN "السيرة الذاتية")
-
+[LINK CV in AR](https://bit.ly/3cagIcN "السيرة الذاتية")  
 [LINK CV in EN](https://bit.ly/2YgMJYv "CV")
