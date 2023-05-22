@@ -12,51 +12,62 @@ Welcome to my GitHub profile! I'm a dedicated Full-stack Developer with expertis
 ## 🚀 Skills and Technologies
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-Expert-red?logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-red?logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-Intermediate-yellow?logo=php)
-![R](https://img.shields.io/badge/R-Intermediate-yellow?logo=r)
+![Java](https://img.shields.io/badge/Java-Expert-red?logo=java&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-Expert-orange?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-Expert-blue?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?logo=javascript&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-blue?logo=php&logoColor=white&style=for-the-badge)
+![R](https://img.shields.io/badge/R-Intermediate-green?logo=r&logoColor=white&style=for-the-badge)
+![VB6](https://img.shields.io/badge/VB6-Beginner-lightgrey?logo=visual-studio&logoColor=white&style=for-the-badge)
 
 ### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-Expert-red?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Expert-red?logo=css3)
-![jQuery](https://img.shields.io/badge/jQuery-Expert-red?logo=jquery)
-![Laravel](https://img.shields.io/badge/Laravel-Expert-red?logo=laravel)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-red?logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?logo=javascript&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-Expert-orange?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-Expert-blue?logo=css3&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-purple?logo=bootstrap&logoColor=white&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jQuery-Expert-green?logo=jquery&logoColor=white&style=for-the-badge)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-Expert-red?logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle-Expert-red?logo=oracle)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Intermediate-yellow?logo=microsoft-sql-server)
-
-### Operating Systems
-![Android](https://img.shields.io/badge/Android%20OS-Intermediate-yellow?logo=android)
-![Linux](https://img.shields.io/badge/Linux-Intermediate-yellow?logo=linux)
-![MacOS](https://img.shields.io/badge/MacOS-Intermediate-yellow?logo=apple)
-![Windows](https://img.shields.io/badge/Windows-Expert-red?logo=windows)
+![MySQL](https://img.shields.io/badge/MySQL-Expert-blue?logo=mysql&logoColor=white&style=for-the-badge)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Intermediate-yellow?logo=oracle&logoColor=white&style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Intermediate-blue?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-Expert-red?logo=oracle&logoColor=white&style=for-the-badge)
 
 ### Other Technologies
-![Metronic Theme](https://img.shields.io/badge/Metronic%20Theme-Expert-red)
-![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow?logo=firebase)
-![Deeplearning4j](https://img.shields.io/badge/Deeplearning4j-Intermediate-yellow)
-![OpenCV](https://img.shields.io/badge/OpenCV-Intermediate-yellow)
+![Firebase](https://img.shields.io/badge/Firebase-Intermediate-orange?logo=firebase&logoColor=white&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-Expert-red?logo=laravel&logoColor=white&style=for-the-badge)
+![Metronic](https://img.shields.io/badge/Metronic-Expert-purple?logo=metronic&logoColor=white&style=for-the-badge)
+
+### Operating Systems
+![Windows](https://img.shields.io/badge/Windows-Expert-blue?logo=windows&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Intermediate-green?logo=linux&logoColor=white&style=for-the-badge)
+![MacOS](https://img.shields.io/badge/MacOS-Intermediate-lightgrey?logo=apple&logoColor=white&style=for-the-badge)
+![Android OS](https://img.shields.io/badge/Android%20OS-Intermediate-green?logo=android&logoColor=white&style=for-the-badge)
+
+<!-- GitHub Stats and Top Languages -->
+## 📊 GitHub Stats and Top Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shareef-ragab&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shareef-ragab&layout=compact&theme=radical" alt="Top Languages" width="49%">
+</div>
+
+<!-- Contact Information -->
+## 📞 Contact
+- Phone: 972-59-7369443
+- Email: shareef.t.ragab@gmail.com
 
 <!-- Languages -->
-## 🌍 Languages
+## 💬 Languages
 - Arabic (Native)
 - English (Read: Good, Listen: Good, Write: Good)
 
-<!-- Contact Information -->
-## 📫 How to Reach Me
-- 📞 Phone: 972-59-7369443
-- ✉️ Email: shareef.t.ragab@gmail.com
+<!-- Hobbies -->
+## ⚡ Hobbies
+- Programming
+- Discovery
+- Building electrical circuits
+- Carpentry
 
-<!-- Fun Fact -->
-## 🌟 Fun Fact
-Outside of work, I enjoy programming, discovering new technologies, building electrical circuits, and carpentry. These activities contribute to my creative mindset and problem-solving abilities, which I apply to my projects.
+Thanks for visiting, and let's connect and collaborate!
 
-<!-- GitHub Stats and Top Languages -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shareef-ragab&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" alt="GitHub Stats" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shareef-ragab&layout=compact&theme=radical" alt="Top Languages" width="49%">
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=shareef-ragab&color=brightgreen)
