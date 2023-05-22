@@ -1,7 +1,3 @@
-Apologies for the confusion. Here's the revised certification bio for Shareef Rajab, formatted for GitHub:
-
----
-
 🚀 Shareef Rajab
 
 👨‍💻 Full-Stack Developer | Java Expert
