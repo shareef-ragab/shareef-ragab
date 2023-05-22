@@ -1,78 +1,63 @@
-# Hi 👋
-## SHAREEF RAJAB
-### Full-stack Developer
+# Hi there, I'm Shareef Rajab! 👋
+## Full-stack Developer
 
-I am Shareef Rajab, a graduate in the field of computer science from the Faculty of Information Technology at Gaza University. I specialize in Full-stack development with a focus on Java.
+Welcome to my GitHub profile! I'm a dedicated Full-stack Developer with expertise in Java and a strong background in computer science.
 
-If you are in need of a Software Developer for mobile apps, desktop applications, or websites, you've come to the right place.
+- 🌱 I’m currently expanding my skills in machine learning and artificial intelligence.
+- 💼 Looking for exciting software development opportunities.
+- ⚡ Fun fact: I love exploring new technologies and building things!
 
-## Skills
-- Java (Expert)
-- R (Intermediate)
-- SQL (MySQL, Oracle, SQL Server)
-- PHP (Intermediate)
-- HTML5 (Expert)
-- CSS3 (Expert)
-- jQuery
-- Laravel (Intermediate)
-- Swift (Beginner)
-- VB6 (Beginner)
-- Python
+## 🚀 Skills and Technologies
 
-## Experience
-Over the years, I have worked with clients from all around the world, analyzing apps, designing web pages, developing websites, and visualizing data. I am committed to delivering high-quality code, solving problems efficiently, and ensuring on-time delivery with attention to detail.
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-Expert-red?logo=java)
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow?logo=python)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-yellow?logo=php)
+![R](https://img.shields.io/badge/R-Intermediate-yellow?logo=r)
 
-## What sets me apart:
-- High-quality, clean code
-- Expertise in Java problem-solving
-- On-time delivery
-- Meticulous attention to detail
-- Systematic analysis
-- Proficient in using git, GitHub, Trello, and Slack
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-Expert-red?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Expert-red?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?logo=javascript)
+![jQuery](https://img.shields.io/badge/jQuery-Intermediate-yellow?logo=jquery)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-red?logo=bootstrap)
+![Laravel](https://img.shields.io/badge/Laravel-Intermediate-yellow?logo=laravel)
 
-Clients' satisfaction and delivering exceptional work are my top priorities. I am dedicated to providing the perfect app that meets my clients' needs.
+### Mobile Development
+![Swift](https://img.shields.io/badge/Swift-Beginner-lightgrey?logo=swift)
+![VB6](https://img.shields.io/badge/VB6-Beginner-lightgrey?logo=vb)
+![Android](https://img.shields.io/badge/Android-Intermediate-yellow?logo=android)
 
-## Contact
-📞 Phone: 972-59-7369443  
-✉️ Email: SHAREEF.T.RAGAB@GMAIL.COM
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-Expert-red?logo=mysql)
+![Oracle](https://img.shields.io/badge/Oracle-Expert-red?logo=oracle)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Intermediate-yellow?logo=microsoft-sql-server)
 
-## Languages
+### Operating Systems
+![Windows](https://img.shields.io/badge/Windows-Expert-red?logo=windows)
+![Linux](https://img.shields.io/badge/Linux-Intermediate-yellow?logo=linux)
+![MacOS](https://img.shields.io/badge/MacOS-Intermediate-yellow?logo=apple)
+![Android](https://img.shields.io/badge/Android%20OS-Intermediate-yellow?logo=android)
+
+### Other Technologies
+![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow?logo=firebase)
+![Deeplearning4j](https://img.shields.io/badge/Deeplearning4j-Intermediate-yellow)
+![OpenCV](https://img.shields.io/badge/OpenCV-Intermediate-yellow)
+
+## 🌍 Languages
 - Arabic (Native)
 - English (Read: Good, Listen: Good, Write: Good)
 
-## Hobbies
-Programming, Discovery, Building electrical circuits, Carpentry
+## 📫 How to Reach Me
+- 📞 Phone: 972-59-7369443
+- ✉️ Email: shareef.t.ragab@gmail.com
 
-## Skills
-### Programming Skills
-- Java (Expert)
-- Python (Intermediate)
-- PHP (Intermediate)
-- R (Intermediate)
-- HTML5 (Expert)
-- CSS3 (Expert)
-- Swift (Beginner)
-- VB6 (Beginner)
+## 🌟 Fun Fact
+Outside of work, I enjoy programming, discovering new technologies, building electrical circuits, and carpentry. These activities contribute to my creative mindset and problem-solving abilities, which I apply to my development projects.
 
-### Database Skills
-- MySQL (Expert)
-- PL/SQL (Intermediate)
-- SQL Server (Intermediate)
-- Oracle (Expert)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shareef-ragab&show_icons=true&theme=radical)
 
-### Operating System Skills
-- Windows (Expert)
-- Ubuntu, Linux, etc. (Intermediate)
-- MacOS (Intermediate)
-- Android OS (Intermediate)
-
-### Libraries and Frameworks
-- Firebase (Intermediate)
-- Bootstrap (Expert)
-- Laravel (Intermediate)
-- Deeplearning4j (Intermediate)
-- OpenCV (Intermediate)
-- Android Libraries (Intermediate)
-
-[LINK CV in AR](https://bit.ly/3cagIcN "السيرة الذاتية")  
-[LINK CV in EN](https://bit.ly/2YgMJYv "CV")
+## 📝 CV Links
+- [CV in Arabic](https://bit.ly/3cagIcN)
+- [CV in English](https://bit.ly/2YgMJYv)
