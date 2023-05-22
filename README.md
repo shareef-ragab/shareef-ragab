@@ -6,7 +6,7 @@ I am Shareef Rajab, a graduate in the field of computer science from the Faculty
 
 If you are in need of a Software Developer for mobile apps, desktop applications, or websites, you've come to the right place.
 
-#### Skills
+## Skills
 - Java (Expert)
 - R (Intermediate)
 - SQL (MySQL, Oracle, SQL Server)
@@ -19,10 +19,10 @@ If you are in need of a Software Developer for mobile apps, desktop applications
 - VB6 (Beginner)
 - Python
 
-#### Experience
+## Experience
 Over the years, I have worked with clients from all around the world, analyzing apps, designing web pages, developing websites, and visualizing data. I am committed to delivering high-quality code, solving problems efficiently, and ensuring on-time delivery with attention to detail.
 
-#### What sets me apart:
+## What sets me apart:
 - High-quality, clean code
 - Expertise in Java problem-solving
 - On-time delivery
@@ -32,19 +32,19 @@ Over the years, I have worked with clients from all around the world, analyzing 
 
 Clients' satisfaction and delivering exceptional work are my top priorities. I am dedicated to providing the perfect app that meets my clients' needs.
 
-#### Contact
+## Contact
 📞 Phone: 972-59-7369443  
 ✉️ Email: SHAREEF.T.RAGAB@GMAIL.COM
 
-#### Languages
+## Languages
 - Arabic (Native)
 - English (Read: Good, Listen: Good, Write: Good)
 
-#### Hobbies
+## Hobbies
 Programming, Discovery, Building electrical circuits, Carpentry
 
-#### Skills
-##### Programming Skills
+## Skills
+### Programming Skills
 - Java (Expert)
 - Python (Intermediate)
 - PHP (Intermediate)
@@ -54,19 +54,19 @@ Programming, Discovery, Building electrical circuits, Carpentry
 - Swift (Beginner)
 - VB6 (Beginner)
 
-##### Database Skills
+### Database Skills
 - MySQL (Expert)
 - PL/SQL (Intermediate)
 - SQL Server (Intermediate)
 - Oracle (Expert)
 
-##### Operating System Skills
+### Operating System Skills
 - Windows (Expert)
 - Ubuntu, Linux, etc. (Intermediate)
 - MacOS (Intermediate)
 - Android OS (Intermediate)
 
-##### Libraries and Frameworks
+### Libraries and Frameworks
 - Firebase (Intermediate)
 - Bootstrap (Expert)
 - Laravel (Intermediate)
