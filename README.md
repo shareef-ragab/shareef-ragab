@@ -2,7 +2,6 @@
 # Hi there, I'm Shareef Rajab! 👋
 ## Full-stack Developer | Java ⚡⚡
 
-
 Welcome to my GitHub profile! I'm a dedicated Full-stack Developer with expertise in Java and a strong background in computer science.
 
 - 🌱 I’m currently expanding my skills in machine learning and artificial intelligence.
@@ -24,7 +23,7 @@ Over the years, I have collaborated with clients from all over the world, analyz
 - ✅ System Analysis Skills.
 - ✅ Proficient in using Git, GitHub, Trello, and Slack.
 
-Clients' satisfaction and delivering quality work are my top priorities. Once I start working on a project, I don't rest until I provide the perfect app that meets my clients' expectations.
+Client satisfaction and delivering quality work are my top priorities. Once I start working on a project, I don't rest until I provide the perfect app that meets my clients' expectations.
 
 <!-- Skills and Technologies -->
 ## 🚀 Skills and Technologies
