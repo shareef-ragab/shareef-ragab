@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm a dedicated Full-stack Developer with expertis
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue?logo=javascript&logoColor=white&style=for-the-badge)
 
 ### Databases
-![Oracle](https://img.shields.io/badge/Oracle-Intermediate-blue?logo=oracle&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue?logo=mysql&logoColor=white&style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-Expert-orange?logo=oracle&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-Expert-orange?logo=mysql&logoColor=white&style=for-the-badge)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Intermediate-blue?logo=oracle&logoColor=white&style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-Beginner-lightgrey?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
 
