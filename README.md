@@ -9,11 +9,11 @@ Welcome to my GitHub profile! I'm a dedicated Full-stack Developer with expertis
 - 💼 Looking for exciting software development opportunities.
 - ⚡ Fun fact: I love exploring new technologies and building things!
 
-If you are looking for a Software Developer desktop, and website, welcome aboard my friend.
+If you are looking for a Software Developer for desktop and web applications, welcome aboard, my friend.
 
-I work on developing machine learning algorithms for app classification images by Java. I know other languages like R language, SQL (MySQL, Oracle, SQL Server), and I am also a full-stack developer. I use front-end languages like HTML, CSS, jQuery, and backend Laravel framework for PHP, and I have a background in Swift, VB6, and Python.
+I specialize in developing machine learning algorithms for app image classification using Java. In addition, I have experience with other languages such as R, SQL (MySQL, Oracle, SQL Server), and I am also a proficient full-stack developer. I work with front-end languages like HTML, CSS, jQuery, and utilize the Laravel framework for PHP on the backend. Furthermore, I have a background in Swift, VB6, and Python.
 
-Over the past years, I have worked as a Developer with many clients from all over the world, analyzing apps, designing web pages, developing websites, and visualizing data.
+Over the years, I have collaborated with clients from all over the world, analyzing apps, designing web pages, developing websites, and visualizing data.
 
 ## What Sets Me Apart
 
@@ -32,33 +32,33 @@ Clients' satisfaction and delivering quality work are my top priorities. Once I 
 ### Programming Skills
 
 ![Java](https://img.shields.io/badge/Java-Expert-orange?logo=java&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue?logo=javascript&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-blue?logo=php&logoColor=white&style=for-the-badge)
 ![R](https://img.shields.io/badge/R-Intermediate-blue?logo=r&logoColor=white&style=for-the-badge)
 
 ### Database Skills
 
+![Oracle](https://img.shields.io/badge/Oracle-Expert-orange?logo=oracle&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-Expert-orange?logo=mysql&logoColor=white&style=for-the-badge)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Intermediate-blue?logo=oracle&logoColor=white&style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-Intermediate-blue?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
-![Oracle](https://img.shields.io/badge/Oracle-Expert-orange?logo=oracle&logoColor=white&style=for-the-badge)
+
 
 ### Web Development Skills
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-orange?logo=bootstrap&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-Expert-orange?logo=html5&logoColor=white&style=for-the-badge)
-![jQuery](https://img.shields.io/badge/jQuery-Expert-orange?logo=jquery&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-Intermediate-blue?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue?logo=javascript&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-orange?logo=bootstrap&logoColor=white&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jQuery-Expert-orange?logo=jquery&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-Expert-orange?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-Intermediate-blue?logo=css3&logoColor=white&style=for-the-badge)
+
 
 ### Other Technologies
 
-![Firebase](https://img.shields.io/badge/Firebase-Beginner-lightgrey?logo=firebase&logoColor=white&style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/Laravel-Intermediate-blue?logo=laravel&logoColor=white&style=for-the-badge)
 ![Deeplearning4j](https://img.shields.io/badge/Deeplearning4j-Intermediate-blue?logo=deeplearning4j&logoColor=white&style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Intermediate-blue?logo=opencv&logoColor=white&style=for-the-badge)
-![Android Libraries](https://img.shields.io/badge/Android%20Libraries-Intermediate-blue?logo=android&logoColor=white&style=for-the-badge)
-
+![Firebase](https://img.shields.io/badge/Firebase-Beginner-lightgrey?logo=firebase&logoColor=white&style=for-the-badge)
 
 <!-- GitHub Stats and Top Languages -->
 ## 📊 GitHub Stats and Top Languages
