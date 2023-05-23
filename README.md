@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a dedicated Full-stack Developer with expertis
 
 
 ### Other Technologies
-![Metronic](https://img.shields.io/badge/Metronic-Intermediate-blue?logo=metronic&logoColor=white&style=for-the-badge)
+![Metronic](https://img.shields.io/badge/Metronic-Expert-orange?logo=metronic&logoColor=white&style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/Laravel-Intermediate-blue?logo=laravel&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-Beginner-lightgrey?logo=firebase&logoColor=white&style=for-the-badge)
 
