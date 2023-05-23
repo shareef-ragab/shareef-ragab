@@ -62,8 +62,8 @@ Client satisfaction and delivering quality work are my top priorities. Once I st
 <!-- GitHub Stats and Top Languages -->
 ## 📊 GitHub Stats and Top Languages
 <div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shareef-ragab&layout=compact&theme=radical" alt="Top Languages" width="49%">
   <img src="https://github-readme-stats.vercel.app/api?username=shareef-ragab&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shareef-ragab&layout=compact&theme=radical" alt="Top Languages" width="49%">
 </div>
 
 <!-- Contact Information -->
