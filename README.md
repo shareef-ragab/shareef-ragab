@@ -8,6 +8,17 @@ Welcome to my GitHub profile! I'm a dedicated Full-stack Developer with expertis
 - 💼 Looking for exciting software development opportunities.
 - ⚡ Fun fact: I love exploring new technologies and building things!
 
+## What Sets Me Apart
+
+- ✅ High Quality of Code & Clean Code.
+- ✅ Strong Problem-solving Skills in Java.
+- ✅ On-time Delivery.
+- ✅ Attention to Detail.
+- ✅ System Analysis Skills.
+- ✅ Proficient in using Git, GitHub, Trello, and Slack.
+
+Clients' satisfaction and delivering quality work are my top priorities. Once I start working on a project, I don't rest until I provide the perfect app that meets my clients' expectations.
+
 <!-- Skills and Technologies -->
 ## 🚀 Skills and Technologies
 
