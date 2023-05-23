@@ -1,6 +1,7 @@
 <!-- Introduction -->
 # Hi there, I'm Shareef Rajab! 👋
-## Full-stack Developer
+## Full-stack Developer | Java ⚡⚡
+
 
 Welcome to my GitHub profile! I'm a dedicated Full-stack Developer with expertise in Java and a strong background in computer science.
 
