@@ -45,9 +45,9 @@ Client satisfaction and delivering quality work are my top priorities. Once I st
 
 ### Web Development Skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue?logo=javascript&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-orange?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jQuery-Expert-orange?logo=jquery&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue?logo=javascript&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-Expert-orange?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-Intermediate-blue?logo=css3&logoColor=white&style=for-the-badge)
 
