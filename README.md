@@ -9,6 +9,12 @@ Welcome to my GitHub profile! I'm a dedicated Full-stack Developer with expertis
 - 💼 Looking for exciting software development opportunities.
 - ⚡ Fun fact: I love exploring new technologies and building things!
 
+If you are looking for a Software Developer desktop, and website, welcome aboard my friend.
+
+I work on developing machine learning algorithms for app classification images by Java. I know other languages like R language, SQL (MySQL, Oracle, SQL Server), and I am also a full-stack developer. I use front-end languages like HTML, CSS, jQuery, and backend Laravel framework for PHP, and I have a background in Swift, VB6, and Python.
+
+Over the past years, I have worked as a Developer with many clients from all over the world, analyzing apps, designing web pages, developing websites, and visualizing data.
+
 ## What Sets Me Apart
 
 - ✅ High Quality of Code & Clean Code.
