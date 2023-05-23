@@ -12,37 +12,35 @@ Welcome to my GitHub profile! I'm a dedicated Full-stack Developer with expertis
 ## 🚀 Skills and Technologies
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-Expert-red?logo=java&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-Expert-orange?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-Expert-blue?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?logo=javascript&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-Expert-orange?logo=java&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue?logo=javascript&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-blue?logo=php&logoColor=white&style=for-the-badge)
-![R](https://img.shields.io/badge/R-Intermediate-green?logo=r&logoColor=white&style=for-the-badge)
-![VB6](https://img.shields.io/badge/VB6-Beginner-lightgrey?logo=visual-studio&logoColor=white&style=for-the-badge)
+![R](https://img.shields.io/badge/R-Intermediate-blue?logo=r&logoColor=white&style=for-the-badge)
 
 ### Web Development
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?logo=javascript&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-orange?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-Expert-orange?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-Expert-blue?logo=css3&logoColor=white&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-purple?logo=bootstrap&logoColor=white&style=for-the-badge)
-![jQuery](https://img.shields.io/badge/jQuery-Expert-green?logo=jquery&logoColor=white&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jQuery-Expert-orange?logo=jquery&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-Intermediate-blue?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue?logo=javascript&logoColor=white&style=for-the-badge)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-Expert-blue?logo=mysql&logoColor=white&style=for-the-badge)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Intermediate-yellow?logo=oracle&logoColor=white&style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Intermediate-blue?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
-![Oracle](https://img.shields.io/badge/Oracle-Expert-red?logo=oracle&logoColor=white&style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-Intermediate-blue?logo=oracle&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue?logo=mysql&logoColor=white&style=for-the-badge)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Intermediate-blue?logo=oracle&logoColor=white&style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Beginner-lightgrey?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
+
 
 ### Other Technologies
-![Firebase](https://img.shields.io/badge/Firebase-Intermediate-orange?logo=firebase&logoColor=white&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-Expert-red?logo=laravel&logoColor=white&style=for-the-badge)
-![Metronic](https://img.shields.io/badge/Metronic-Expert-purple?logo=metronic&logoColor=white&style=for-the-badge)
+![Metronic](https://img.shields.io/badge/Metronic-Intermediate-blue?logo=metronic&logoColor=white&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-Intermediate-blue?logo=laravel&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-Beginner-lightgrey?logo=firebase&logoColor=white&style=for-the-badge)
+
 
 ### Operating Systems
-![Windows](https://img.shields.io/badge/Windows-Expert-blue?logo=windows&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-Intermediate-green?logo=linux&logoColor=white&style=for-the-badge)
-![MacOS](https://img.shields.io/badge/MacOS-Intermediate-lightgrey?logo=apple&logoColor=white&style=for-the-badge)
-![Android OS](https://img.shields.io/badge/Android%20OS-Intermediate-green?logo=android&logoColor=white&style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-Expert-orange?logo=windows&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Intermediate-blue?logo=linux&logoColor=white&style=for-the-badge)
+![MacOS](https://img.shields.io/badge/MacOS-Beginner-lightgrey?logo=apple&logoColor=white&style=for-the-badge)
 
 <!-- GitHub Stats and Top Languages -->
 ## 📊 GitHub Stats and Top Languages
