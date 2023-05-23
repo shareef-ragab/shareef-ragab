@@ -52,6 +52,14 @@ Clients' satisfaction and delivering quality work are my top priorities. Once I 
 ![OpenCV](https://img.shields.io/badge/OpenCV-Intermediate-blue?logo=opencv&logoColor=white&style=for-the-badge)
 ![Android Libraries](https://img.shields.io/badge/Android%20Libraries-Intermediate-blue?logo=android&logoColor=white&style=for-the-badge)
 
+
+<!-- GitHub Stats and Top Languages -->
+## 📊 GitHub Stats and Top Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shareef-ragab&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shareef-ragab&layout=compact&theme=radical" alt="Top Languages" width="49%">
+</div>
+
 <!-- Contact Information -->
 ## 📞 Contact
 - Phone: 972-59-7369443
