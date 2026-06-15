@@ -1,6 +1,6 @@
 <!-- Introduction -->
 # Hi there, I'm Shareef Rajab! 👋
-## Full-stack Developer | Java ⚡⚡
+## Full-stack Developer | Java Developer ⚡⚡
 
 Welcome to my GitHub profile! I'm a dedicated Full-stack Developer with expertise in Java and a strong background in computer science.
 
@@ -45,8 +45,8 @@ Client satisfaction and delivering quality work are my top priorities. Once I st
 
 ### Web Development Skills
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-orange?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![tailwind](https://img.shields.io/badge/tailwind-Expert-orange?logo=tailwind&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-orange?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jQuery-Expert-orange?logo=jquery&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-orange?logo=javascript&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-Expert-orange?logo=html5&logoColor=white&style=for-the-badge)
@@ -55,8 +55,8 @@ Client satisfaction and delivering quality work are my top priorities. Once I st
 
 ### Other Technologies
 
-![Laravel](https://img.shields.io/badge/Laravel-Intermediate-blue?logo=laravel&logoColor=white&style=for-the-badge)
 ![Spring](https://img.shields.io/badge/Spring-Expert-orange?logo=spring&logoColor=white&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-Intermediate-blue?logo=laravel&logoColor=white&style=for-the-badge)
 ![Deeplearning4j](https://img.shields.io/badge/Deeplearning4j-Intermediate-blue?logo=deeplearning4j&logoColor=white&style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Intermediate-blue?logo=opencv&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-Beginner-lightgrey?logo=firebase&logoColor=white&style=for-the-badge)
